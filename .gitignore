@@ -2,4 +2,7 @@
 
 # libs
 node_modules
-backend
+
+
+bk-*
+bk_*
